@@ -1,0 +1,11 @@
+body {
+    margin: 0;
+    background: #ffffff;
+    color: #2d2d2d;
+    font-family: 'IBM Plex Mono', monospace;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    font-size: 1rem; /* Adjusted here */
+}
