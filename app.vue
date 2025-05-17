@@ -1,5 +1,5 @@
 <script setup lang="ts">
-const words = ["Trying to stay alive!", "Still Alive!", "Still Breathing!"];
+const words = ["Trying to stay alive!", "Still Alive!", "Still Breathing!", "All is well!"];
 const currentWord = ref("");
 
 onMounted(() => {
